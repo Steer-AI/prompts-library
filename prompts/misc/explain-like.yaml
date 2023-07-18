@@ -1,0 +1,6 @@
+title: Explain like I'm ...
+prompt: |
+  "Explain the following concept to a {5 year old}.
+  
+  CONCEPT:"
+icon: book

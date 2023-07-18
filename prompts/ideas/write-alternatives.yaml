@@ -1,0 +1,7 @@
+title: Write 10 alternatives
+prompt: |
+  "Write 10 alternatives for the following sentence. 
+  The alternatives should be as different as possible from each other.
+  
+  SENTENCE:" 
+icon: shuffle

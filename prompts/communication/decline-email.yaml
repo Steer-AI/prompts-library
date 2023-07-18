@@ -1,0 +1,7 @@
+title: Decline this Mail
+prompt: |
+  "Write a polite and friendly email to decline the following email. 
+  The email should be written in a way that it can be sent to the recipient.
+  
+  MAIL:"
+icon: envelope

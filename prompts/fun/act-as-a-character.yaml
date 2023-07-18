@@ -1,0 +1,7 @@
+title: Act as a character
+prompt: |
+  "Rewrite the text as if you were {yoda}. Use {yoda}'s tone, manner and vocabulary. 
+  You must know all of the knowledge of {yoda}
+
+  TEXT:"
+icon: person

@@ -1,0 +1,8 @@
+title: Write a song
+prompt: |
+  "Write a song about the following topic. 
+  The song should be at least 100 words long. 
+  The song should have a clear melody, lyrics that tell a story, and a memorable chorus.
+  
+  TOPIC:"
+icon: music

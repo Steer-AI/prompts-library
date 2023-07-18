@@ -1,0 +1,6 @@
+title: Convert HTML to Markdown
+prompt: |
+  "Convert the following HTML code into Markdown.
+
+  HTML CODE:"
+icon: code

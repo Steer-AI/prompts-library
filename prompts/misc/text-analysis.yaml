@@ -1,0 +1,6 @@
+title: Text Analysis
+prompt: |
+  "Analyze the text and provide insights on its tone, style, and potential audience.
+  
+  TEXT:"
+icon: magnifying-glass

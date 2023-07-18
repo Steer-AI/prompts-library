@@ -1,0 +1,6 @@
+title: Give me a recipe
+prompt: |
+  "Give me a recipe for the following ingredients. 
+  The recipe should be easy to follow.
+  
+  INGREDIENTS:"

@@ -1,0 +1,7 @@
+name: Translate to langguage
+prompt: |
+  "Translate the following text to {{lang}}. 
+  Make sure to use the correct grammar and spelling.
+  
+  TEXT:"
+icon: speech-bubble

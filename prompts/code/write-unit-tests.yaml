@@ -1,0 +1,8 @@
+name: Write tests
+prompt: |
+  "Write unit tests for the following code. 
+  Make sure to cover all edge cases. 
+  You can use any testing framework you want.
+  
+  CODE:"
+icon: bug
